@@ -1,0 +1,14 @@
+H:\C#\Assignment Day8\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.exe
+H:\C#\Assignment Day8\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.deps.json
+H:\C#\Assignment Day8\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.runtimeconfig.json
+H:\C#\Assignment Day8\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.runtimeconfig.dev.json
+H:\C#\Assignment Day8\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.dll
+H:\C#\Assignment Day8\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.pdb
+H:\C#\Assignment Day8\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.csproj.AssemblyReference.cache
+H:\C#\Assignment Day8\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Assignment Day8\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.AssemblyInfoInputs.cache
+H:\C#\Assignment Day8\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.AssemblyInfo.cs
+H:\C#\Assignment Day8\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.csproj.CoreCompileInputs.cache
+H:\C#\Assignment Day8\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.dll
+H:\C#\Assignment Day8\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.pdb
+H:\C#\Assignment Day8\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.genruntimeconfig.cache
